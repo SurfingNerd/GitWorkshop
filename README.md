@@ -16,6 +16,11 @@ example Unity
 /Assets/Prefabs/
 ```
 
+### Unix style Line Endings
+Windows uses CRLF for line endings, other OS use LF.
+committing UNix-style line endings decreases further merges and conflicts.
+It is default "ON" for "Git for Windows" anyway. and can be enforeced by setting ´core.autocrlf´ to `true`
+
 ## Unity3D
 
 - use your own playground scene (don't do testing / firther development of assets in )
