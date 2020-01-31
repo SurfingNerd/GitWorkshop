@@ -14,7 +14,7 @@ example Unity
 /Assets/Scenes/thomas/testScenePhysics.scene
 /Assets/Scenes/anita/testSceneAirplane.scene
 /Assets/Prefabs/
-```
+``` 
 
 ### Unix style Line Endings
 Windows uses CRLF for line endings, other OS use LF.
@@ -24,3 +24,4 @@ It is default "ON" for "Git for Windows" anyway. and can be enforeced by setting
 ## Unity3D
 
 - use your own playground scene (don't do testing / firther development of assets in )
+- Use Prefabs
